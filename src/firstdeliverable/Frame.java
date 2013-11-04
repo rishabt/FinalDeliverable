@@ -14,5 +14,11 @@ public class Frame{
 	public Frame(){
 		
 	}
+	
+
+	public static void addPanel(Panel panel) {
+		
+		
+	}
 
 }
