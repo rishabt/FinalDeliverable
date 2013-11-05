@@ -29,7 +29,7 @@ public class Panel extends JPanel implements ActionListener{
         start.setBounds(440, 166, 200, 60);
         start.addActionListener(this);
         
-        description = new JLabel("� Copyright of Group 7, ECSE 321, McGill University");
+        description = new JLabel("© Copyright of Group 7, ECSE 321, McGill University");
         description.setFont(new Font("Times", Font.BOLD, 10));
         description.setBounds(100, 500, 510, 45);
 	}
